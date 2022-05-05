@@ -6,6 +6,11 @@
   src: url("./assets/fonts/NOE-DISPLAY-BOLD.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "palatino_type";
+  src: url("./assets/fonts/PALA.ttf") format("truetype");
+}
+
 @media only screen and (max-width: 750px) {
   .title {
     font-size: 60px;

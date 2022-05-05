@@ -6,7 +6,7 @@
   }
   
   .content {
-    height: 97vh;
+    height: 95vh;
     min-height: 650px;
     display: flex;
     flex-direction: column;
@@ -34,8 +34,9 @@
   }
   
   .soon-desc {
-    font-size: 24px;
-    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-family: "palatino_type";
+    color: grey;
   }
   
   .details {
